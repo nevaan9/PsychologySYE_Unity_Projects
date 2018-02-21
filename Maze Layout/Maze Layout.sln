@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Layout.Plugins", "Maze Layout.Plugins.csproj", "{6D6D2641-802E-E5B3-2BBF-EE002C0F19E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Layout", "Maze Layout.csproj", "{9C6095E5-417D-8140-8E7C-5B1BA36F19BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Layout.Editor.Plugins", "Maze Layout.Editor.Plugins.csproj", "{82BFD642-4B45-44C4-AE27-3EB6ED59F587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D6D2641-802E-E5B3-2BBF-EE002C0F19E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6D2641-802E-E5B3-2BBF-EE002C0F19E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6D2641-802E-E5B3-2BBF-EE002C0F19E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6D2641-802E-E5B3-2BBF-EE002C0F19E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6095E5-417D-8140-8E7C-5B1BA36F19BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6095E5-417D-8140-8E7C-5B1BA36F19BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6095E5-417D-8140-8E7C-5B1BA36F19BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6095E5-417D-8140-8E7C-5B1BA36F19BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BFD642-4B45-44C4-AE27-3EB6ED59F587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BFD642-4B45-44C4-AE27-3EB6ED59F587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BFD642-4B45-44C4-AE27-3EB6ED59F587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BFD642-4B45-44C4-AE27-3EB6ED59F587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

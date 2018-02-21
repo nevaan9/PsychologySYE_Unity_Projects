@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_connect", "test_connect.csproj", "{A2D8AC22-358A-B62D-C558-300CB8E224DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_connect.Editor", "test_connect.Editor.csproj", "{AF338C0C-BC50-DADB-84F2-17B275414029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D8AC22-358A-B62D-C558-300CB8E224DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D8AC22-358A-B62D-C558-300CB8E224DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D8AC22-358A-B62D-C558-300CB8E224DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D8AC22-358A-B62D-C558-300CB8E224DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF338C0C-BC50-DADB-84F2-17B275414029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF338C0C-BC50-DADB-84F2-17B275414029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF338C0C-BC50-DADB-84F2-17B275414029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF338C0C-BC50-DADB-84F2-17B275414029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
